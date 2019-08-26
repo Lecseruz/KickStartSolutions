@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Cherries_Mesh" />
+        <module name="Food_Stalls" />
+        <module name="Latest_Guests" />
+        <module name="X_Or_What" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
