@@ -1,7 +1,7 @@
 import java.util.*;
 
 class Solution {
-    static int par[], ans;
+    private static int par[], ans;
 
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
