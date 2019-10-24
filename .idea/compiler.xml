@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Book_Reading" />
         <module name="Cherries_Mesh" />
+        <module name="Equation" />
         <module name="Food_Stalls" />
         <module name="Latest_Guests" />
         <module name="X_Or_What" />
